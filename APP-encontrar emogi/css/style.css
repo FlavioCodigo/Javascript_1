@@ -1,0 +1,21 @@
+.container{
+    background-color: lightcoral;
+    color: rgb(27, 5, 78);
+    padding: 1%;
+    border-radius: 1%;
+}
+
+
+.panel{
+    background-color: indianred;
+    border: solid rgb(145, 50, 6) 1px;
+    min-height: 400px; 
+    position: relative; 
+    border-radius: 2%;
+}
+
+img{    
+    position: absolute;
+    width: 60px;
+    height: 60px;
+}
