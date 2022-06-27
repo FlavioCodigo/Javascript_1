@@ -1,0 +1,32 @@
+body{
+    background-color: cyan;
+    padding-top: 30px;
+}
+.container{
+    background-color: rgb(123, 214, 194);
+}
+.area-contenido{
+    padding: 40px 15px;
+}
+.area-entrada{
+    margin: 25px;
+}
+.texto-tarea{
+    display: flex;
+    align-items: center;
+    height: 40px;
+}
+.oculto{
+    display: none;
+}
+.area-icono-eliminacion{
+    display: flex;
+    align-items: center;
+    height: 40px;
+}
+.tarea-completada{
+    text-decoration: line-through;
+}
+.caja-comprobacion{
+    margin-top: 15px;
+}
